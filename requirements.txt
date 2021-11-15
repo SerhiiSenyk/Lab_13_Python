@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 marshmallow==2.19.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.16
-pip==19.0.3
+pip==21.1
 pipenv==2018.11.26
 protobuf==3.7.1
 setuptools==40.8.0
